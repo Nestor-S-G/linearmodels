@@ -1,6 +1,6 @@
-# 📊 Linear Model
+# 📊 Linear Models
 
-**Scripts developed in R for advanced statistical modeling, focusing on applications within behavioral and social sciences.**
+**Scripts developed in R for advanced statistical modeling, focusing on applications within health, behavioral, and social sciences.**
 
 ### 💻 Models and Techniques
 
